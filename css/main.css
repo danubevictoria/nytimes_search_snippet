@@ -1,0 +1,17 @@
+div {
+  width: 1200px;
+  margin: 30px auto;
+}
+
+#input {
+  width: 90%;
+}
+
+ul {
+  list-style-type: none;
+  font-family: 'Open Sans';
+}
+
+li {
+  margin: 20px;
+}
